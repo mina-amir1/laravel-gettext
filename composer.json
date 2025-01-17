@@ -1,5 +1,5 @@
 {
-    "name": "xinax/laravel-gettext",
+    "name": "mina-amir1/laravel-gettext",
     "description": "Adds localization support to laravel 9 applications in an easy way using Poedit and GNU gettext.",
     "homepage": "https://github.com/xinax/laravel-gettext",
     "keywords": [
