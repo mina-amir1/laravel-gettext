@@ -1,7 +1,7 @@
 {
     "name": "mina-amir1/laravel-gettext",
     "description": "Adds localization support to laravel 9 applications in an easy way using Poedit and GNU gettext.",
-    "homepage": "https://github.com/xinax/laravel-gettext",
+    "homepage": "https://github.com/mina-amir1/laravel-gettext",
     "keywords": [
         "gettext",
         "localization",
@@ -21,7 +21,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/xinax/laravel-gettext/issues"
+        "issues": "https://github.com/mina-amir1/laravel-gettext/issues"
     },
     "require": {
         "php": ">=8.0",
