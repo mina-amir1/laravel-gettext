@@ -12,7 +12,7 @@ if (!function_exists('_i')) {
     function _i($message, $args = null)
     {
 
-        $translator  = app(LaravelGettext::class);
+        $translator  = resolve("laravel-gettext");
         $translation = $translator->translate($message);
 
         if (strlen($translation)) {
